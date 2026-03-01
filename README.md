@@ -1,10 +1,10 @@
 # Hi, I'm Yuganshi 👋
 
-MS Data Science @ University of Michigan (4.0 GPA) · SWE Background  
+MS Data Science @ University of Michigan (4.0 GPA) · Previously SWE @ Wells Fargo & IntelloHire
 
 I work across machine learning, NLP, and software engineering, building data-driven systems that combine statistical thinking with strong engineering foundations.
 
-## Selected Projects
+## Recent Projects
 - **CRISP** — Stock prediction with IRM (30%+ OOD improvement)  
 - **PeerMatch** — GraphSAGE recommender (98.4% ROC-AUC)  
 - **Narrative Surprise Detection** — LLM + MNLI pipeline for plot twist detection  
