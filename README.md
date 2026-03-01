@@ -2,8 +2,7 @@
 
 MS Data Science @ University of Michigan (4.0 GPA) · Previously SWE @ Wells Fargo & IntelloHire
 
-I build intelligent systems at the intersection of ML, data science, and software engineering — from causal stock prediction engines to graph-based recommender systems.
-
+I work across machine learning, NLP, and software engineering, building data-driven systems that combine statistical thinking with strong engineering foundations.
 ---
 
 ### 🔬 Recent Projects
@@ -19,10 +18,14 @@ I build intelligent systems at the intersection of ML, data science, and softwar
 
 ### 🛠️ Stack
 
-`Python` `PyTorch` `scikit-learn` `SQL` `React` `Node.js` `Flask` `spaCy` `Pandas` `WandB`
+**Languages:** Python, SQL, JavaScript, C/C++, C#  
+**ML & NLP:** PyTorch, scikit-learn, spaCy, Sentence-BERT, Transformers, RAG  
+**Data:** Pandas, NumPy, Matplotlib, Seaborn, Tableau, Power BI  
+**Backend & Web:** Flask, Node.js, React, REST APIs, .NET  
+**Tools:** Git, CI/CD, SLURM, Weights & Biases, Hadoop
 
 ---
 
 ### 📫 Reach me
 
-[yuganshi@umich.edu](mailto:yuganshi@umich.edu) · [LinkedIn](https://linkedin.com/in/yuganshi) · [Portfolio](https://yuganshiii.github.io/PersonalPortfolio/)
+[yuganshi@umich.edu](mailto:yuganshi@umich.edu) · [LinkedIn](https://www.linkedin.com/in/yuganshi-agrawal) · [Portfolio](https://yuganshiii.github.io/PersonalPortfolio/)
